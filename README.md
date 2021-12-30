@@ -15,3 +15,4 @@ The following images show the results of running the refactored VBA code for the
 
 
 ## Summary
+The images above show that the refactored VBA code provided the desired results in less than one second, which is nearly four times faster than the processing time before refactoring the code. Obviously, the efficiency obtained through refactoring the code is the most significant benefit in this case.  In addition, refactoring the code helps to provide better overall organization and layout of the entire script.  However, refactoring code can also open the door to creating bugs that our tests don't catch which could lead to critical mistakes when assessing the results.  Fortunately, for this challenge, we had pictures and on-line guidance to compare our result with and insure that it was running correctly. 
